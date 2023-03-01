@@ -1,0 +1,25 @@
+{
+  "name": "coppilottest",
+  "version": "1.0.0",
+  "description": "This is a demo project to demonstrate how GitHub CoPilot can help developers be more productive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docluv/CopPilotTest.git"
+  },
+  "keywords": [
+    "CoPilot"
+  ],
+  "author": "Chris Love",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docluv/CopPilotTest/issues"
+  },
+  "homepage": "https://github.com/docluv/CopPilotTest#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1325.0"
+  }
+}
