@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/docluv/CopPilotTest#readme",
   "dependencies": {
-    "aws-sdk": "^2.1325.0"
+    "aws-sdk": "^2.1356.0"
   }
 }
